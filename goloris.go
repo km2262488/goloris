@@ -1,6 +1,6 @@
 // Goloris - slowloris[1] for nginx.
 //
-// The original source code is available at http://github.com/valyala/goloris.
+// 
 //
 package main
 
